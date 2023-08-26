@@ -80,12 +80,13 @@
 }
 .quality{
     width: 170px;
+
 }
 .qualityimg{
     width: 100%;
 }
 .qualitytext{
-    margin-left: 35px;
+    margin-left: 25px;
     
 }
 .warranty{
@@ -102,7 +103,7 @@
 .extra{
     display: flex;
     overflow-x: auto;
-        transition: 1s;
+     transition: 1s;
 }
 .f1{
     display: flex;
