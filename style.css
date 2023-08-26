@@ -121,7 +121,9 @@
     overflow-x: auto;
      transition: 1s;
 }
-
+.i1{
+    width: 200px;
+}
 .f1{
     display: flex;
     gap: 40px;
